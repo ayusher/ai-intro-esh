@@ -5,6 +5,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolu
 import sys
 # add imports as needed
 
+
 def download_data(ticker):
     # hint: stock_info = yf.Ticker(ticker)
     # call some functions here
